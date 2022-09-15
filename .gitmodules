@@ -1,0 +1,6 @@
+[submodule "techblock-client"]
+	path = techblock-client
+	url = https://github.com/thng0171/techblock-client
+[submodule "techblock-server"]
+	path = techblock-server
+	url = https://github.com/thng0171/techblock-server
